@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Paluri</h1>
-<h3 align="center">A Junior Attending Rutgers University - New Brunswick</h3>
+<h3 align="center">A Senior Attending Rutgers University - New Brunswick</h3>
 
 - 🔭 I’m currently working on **creating a website**
 
